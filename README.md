@@ -197,7 +197,7 @@ const ankith: Developer = {
 
 <br/>
 
-*"The best code is code that solves real problems at scale — and the best engineer is one who never stops learning."*
+*"Knowledge remains static unless one masters its wide range of applications in life"* — Abraham Lincoln
 
 </div>
 
