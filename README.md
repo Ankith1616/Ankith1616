@@ -31,7 +31,6 @@ const ankith: Developer = {
   name: "Ankith Padmanabhuni",
   location: "Coimbatore, India 🇮🇳",
   education: "B.Tech CSE @ Amrita Vishwa Vidyapeetham (2023–Present)",
-  cgpa: "7.83 / 10",
 
   currentRole: "Research Intern @ SyberGate Technologies",
   researchFocus: "Explainable AI for Medical Imaging (Paper Under Review)",
